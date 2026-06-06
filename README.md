@@ -1,52 +1,84 @@
-<h1 align="center">Hey Everyone 👋, I'm Nireesh Madharavena</h1>
+<h1 align="center">👋 Hi, I'm Nireesh Madharavena</h1>
 
-
-<h3 align="center">A passionate DevOps Engineer.</h3>
+<h3 align="center">
+Senior Cloud DevOps Engineer • AWS • Cloud Automation
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nireesh-madharavena-692b60136">
-    <img src="https://img.shields.io/badge/LinkedIn-Nireesh%20Madharavena-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iamnireesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamnireesh](https://github.com/iamnireesh)  
-- 💬 Ask me about **DevOps & Cloud Engineering**  
+<a href="https://linkedin.com/in/nireesh-madharavena-692b60136" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nireeshyadav1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/iamnireesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
+
+I’m **Nireesh Madharavena**, a **Senior Cloud DevOps Engineer with 14+ years of hands-on experience**
+
+I enjoy building **reliable, scalable, and automated cloud platforms**, solving infrastructure problems, and reducing operational overhead through **Infrastructure as Code, CI/CD automation, and Kubernetes**.
+
+Most of my work focuses on helping teams **deploy faster, operate reliably, and scale confidently** using modern DevOps and SRE practices.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</p>
+## 🎯 What I’m Currently Working On
+
+- ☁️ Designing and automating infrastructure on **AWS**
+- 🚀 Building and improving **CI/CD pipelines** for multiple environments
+- 📦 Running production workloads on **Kubernetes (EKS)**
+- 🏗 Writing reusable **Terraform modules**
+- 📈 Improving observability using **Prometheus, Grafana & ELK**
 
 ---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible)
+
+### 🔧 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
+
+### 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
+
+### 💻 Scripting & Version Control
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack)
+
+---
+
+## 📫 Let’s Connect
+
+- 📍 **Location:** USA 
+- ✉️ **Email:** nireeshyadav1@gmail.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/nireesh-madharavena-692b60136  
+- 🧠 **Blog:** https://medium.com/@nireeshyadav1
+- 🔗 **Substack:** https://nireesh1.substack.com 
+
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
+</p>
