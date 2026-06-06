@@ -37,7 +37,6 @@ Most of my work focuses on helping teams **deploy faster, operate reliably, and 
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible)
 
@@ -55,6 +54,7 @@ Most of my work focuses on helping teams **deploy faster, operate reliably, and 
 
 ### 💻 Scripting & Version Control
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
