@@ -68,7 +68,7 @@ Most of my work focuses on helping teams **deploy faster, operate reliably, and 
 ## 📫 Let’s Connect
 
 - 📍 **Location:** USA 
-- ✉️ **Email:** nireeshyadav1@gmail.com  
+- ✉️ **Email:** iamnireesh@gmail.com  
 - 🔗 **LinkedIn:** https://linkedin.com/in/nireesh-madharavena-692b60136  
 - 🧠 **Blog:** https://medium.com/@nireeshyadav1
 - 🔗 **Substack:** https://nireesh1.substack.com 
